@@ -350,6 +350,12 @@ Modify `vertexShaderSource` and `pixelShaderSource` in `vgui_core.cpp` to add cu
 
 ---
 
+---
+## Examples
+
+<img width="981" height="686" alt="image" src="https://github.com/user-attachments/assets/6d100927-c62a-4d7c-8fda-a955dcf99b25" />
+
+
 ## 📄 License
 
 Licensed by the MIT License. 2025 
@@ -362,10 +368,14 @@ https://opensource.org/license/mit
 To add features or report bugs:
 1. Test thoroughly with the demo application
 2. Ensure backward compatibility
-3. Document new functions in this README
-4. Maintain the performance-first architecture
+3. Open a Pull Request
+4. Wait and you will be added to the contributors list
+
+   // Contributors \\
+   -  me!
 
 ---
 
 **Built with ❤️ from kamiiz**
+
 
